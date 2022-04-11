@@ -5,10 +5,12 @@ body {
 	font-family: "Roboto", sans-serif;
 }
 
+
 .container {
+	max-width: 900px;
 	background: #f7f7f7;
 	color: #1c1c1c;
-	margin: 64px;
+	margin: 64px auto;
 	border-radius: 20px;
 	box-shadow: 6px 6px 6px #0e1d2f;
 	padding: 64px;
